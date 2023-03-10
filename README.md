@@ -1,4 +1,4 @@
-# Manejo-de-objetos
+# Manejo-de-objetos (Basico)
 
 Programa que mediante el uso de Objetos con sus correspondientes propiedades y metodos, 
 es capaz de crear objetos Alumno y ser visualizados en un DataGridView. 
